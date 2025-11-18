@@ -6,7 +6,7 @@
 <!-- ===== Name & Title ===== -->
 <h1 align="center">Hi 👋, I'm <span style="color:#4fa1ff">Rasel Mia</span></h1>
 <h3 align="center">Frontend Developer • React • JavaScript • TailwindCSS</h3>
- <img align="right" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzgqLDcCCJ-wwmgxgK_60duUHrVRMxET5iA&s" width="400" />
+
 
 ---
 
