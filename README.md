@@ -6,8 +6,10 @@
 <!-- ===== Name & Title ===== -->
 <h1 align="center">Hi 👋, I'm <span style="color:#4fa1ff">Rasel Mia</span></h1>
 <h3 align="center">Frontend Developer • React • JavaScript • TailwindCSS</h3>
+ <img align="right" alt="coding" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif" width="400" />
 
 ---
+
 
 ## 🧑‍💻 About Me  
 Hi! I’m **Rasel**, a passionate **Frontend Developer** from Bangladesh.  
