@@ -1,7 +1,8 @@
 <!-- ===== Banner ===== -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://template.canva.com/EAFJVKdfKyw/1/0/1600w-Dj8upwvAxRU.jpg" width="100%" />
-</p>
+</p> -->
+![logo](https://github.com/rasel701/rasel701/blob/main/Screenshot%202025-11-19%20104622.png)
 
 <!-- ===== Name & Title ===== -->
 <h1 align="center">Hi 👋, I'm <span style="color:#4fa1ff">Rasel Mia</span></h1>
