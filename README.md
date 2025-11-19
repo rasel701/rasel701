@@ -24,8 +24,10 @@ I love building clean, modern, and responsive user interfaces using React and Ta
 ---
 
 ## 🛠️ Skills  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+
+### 🚀 Frontend
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
   &nbsp;&nbsp;
@@ -34,7 +36,10 @@ I love building clean, modern, and responsive user interfaces using React and Ta
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
   &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
-  &nbsp;&nbsp;
+</p>
+
+### 🛠️ Backend
+<p >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
@@ -42,19 +47,22 @@ I love building clean, modern, and responsive user interfaces using React and Ta
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
   &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
+  
+</p>
+
+### 🎨 UI/UX & Tools
+<p>
+ <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/> 
 </p>
 
 ---
 
 ## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://facebook.com/rasel701" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" />
-  </a>
+You can reach out to me via the following channels:
 
-</p>
+- **LinkedIn:** [Rasel Mia](https://www.instagram.com/rasel708211/)  
+- **Facebook:** [Rasel Mia](https://fb.com/rasel.mai.853662)  
+- **Email:** rasel708211@gmail.com
 
 ---
 
