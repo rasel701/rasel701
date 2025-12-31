@@ -50,7 +50,7 @@ React | Tailwind CSS | React Query | Leaflet | Axios | Node.js | Express | Mongo
 - 📊 Admin dashboard with system analytics
 
 🔗 **Live Demo:** https://voluble-mousse-d75057.netlify.app/  
-📂 **GitHub Repo:** https://github.com/rasel701/your-frontend-repo-link
+📂 **GitHub Repo:** https://github.com/rasel701/book-courier
 
 
 
