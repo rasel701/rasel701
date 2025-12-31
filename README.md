@@ -121,14 +121,7 @@ You can reach out to me via the following channels:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rasel701&theme=tokyonight" width="100%" alt="Rasel's Profile Summary" />
 </p>
 
----
 
-
-
-
-
-
----
 
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
 
