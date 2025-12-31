@@ -105,18 +105,14 @@ You can reach out to me via the following channels:
 
 ---
 
-## 📊 GitHub Stats  
-
----
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasel701&show_icons=true&hide_border=true&theme=tokyonight" alt="Rasel's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rasel701&show_icons=true&count_private=true&theme=tokyonight" alt="Rasel's GitHub Stats" height="160" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasel701&layout=compact&hide_border=true&theme=tokyonight" alt="Rasel's Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasel701&layout=compact&langs_count=8&theme=tokyonight" alt="Rasel's Top Languages" height="160" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasel701&theme=tokyonight" height="170" alt="GitHub Streak" />
 </p>
