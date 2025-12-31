@@ -52,7 +52,19 @@ React | Tailwind CSS | React Query | Leaflet | Axios | Node.js | Express | Mongo
 🔗 **Live Demo:** https://voluble-mousse-d75057.netlify.app/  
 📂 **GitHub Repo:** https://github.com/rasel701/your-frontend-repo-link
 
+
+
 ---
+
+## 🏆 Achievements
+
+🏆 Successfully completed Programming Hero Web Development Course (Batch 12).
+💻 Developed & Deployed 2+ full-stack real-world applications.
+🏆 **Learned and implemented modern tech stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) 
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+
 
 
 ## 🛠️ Skills  
