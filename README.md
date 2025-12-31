@@ -24,7 +24,8 @@ I love building clean, modern, and responsive user interfaces using React and Ta
 
 ---
 
-### 🗺️ BookCourier 
+
+## 🗺️ Featured Project — BookCourier Platform (Full Stack)
 
 An interactive web application that displays all delivery service centers on a dynamic map with real-time data fetching.
 
