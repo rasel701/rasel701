@@ -100,7 +100,7 @@ React | Tailwind CSS | React Query | Leaflet | Axios | Node.js | Express | Mongo
 You can reach out to me via the following channels:
 
 - **LinkedIn:** [Rasel Mia](https://www.linkedin.com/in/developer-rasel-mia/)  
-- **Facebook:** [Rasel Mia](https://fb.com/rasel.mai.853662)  
+- **Facebook:** [Rasel Mia](https://www.facebook.com/rasel.mia.853662)  
 - **Email:** rasel708211@gmail.com
 
 ---
