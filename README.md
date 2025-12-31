@@ -61,7 +61,7 @@ I love building clean, modern, and responsive user interfaces using React and Ta
 ## 🌐 Connect With Me  
 You can reach out to me via the following channels:
 
-- **LinkedIn:** [Rasel Mia](https://www.instagram.com/rasel708211/)  
+- **LinkedIn:** [Rasel Mia](https://www.linkedin.com/in/developer-rasel-mia/)  
 - **Facebook:** [Rasel Mia](https://fb.com/rasel.mai.853662)  
 - **Email:** rasel708211@gmail.com
 
