@@ -112,9 +112,9 @@ You can reach out to me via the following channels:
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasel701&show_icons=true&theme=tokyonight" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterhstq.vercel.app/api?username=rasel701&show_icons=true&theme=tokyonight" height="170" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasel701&layout=compact&theme=tokyonight" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterhstq.vercel.app/api/top-langs/?username=rasel701&layout=compact&theme=tokyonight" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -131,15 +131,7 @@ You can reach out to me via the following channels:
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasel701&show_icons=true&theme=tokyonight" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasel701&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/33c2b01b26e9127001e30430099d8d0d11889d4ecce6d8a110c085a239001c04/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d726173656c373031267468656d653d746f6b796f6e69676874" height="180"/>
-</p>
 ---
 
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
